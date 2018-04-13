@@ -1,0 +1,12 @@
+autoCorrect: false
+failFast: true
+
+style:
+  VariableMinLength:
+    active: true
+    minimumVariableNameLength: 10
+
+naming:
+  VariableMinLength:
+    active: true
+    minimumVariableNameLength: 10
